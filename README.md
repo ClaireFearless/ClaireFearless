@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClaireFearless
+- 👋 Hi, I’m @ClaireFearless / Onyy
 - 👀 I’m interested in Web Designer
 - 🌱 I’m currently learning PHP
 - ⚡ Fun fact: Never Surrender
