@@ -1,7 +1,7 @@
 <h1 align="center">Hi~ I'm Ony! 👋</h1>
 
 <p align="center">
-  🌸 Frontend Developer | 💻 Linux Enthusiast | 🎨 Anime Lover <br/>
+  ✨ Frontend Developer | 💻 Linux Enthusiast | 🎨 Anime Lover <br/>
   🌍 Indonesia | ⚡ Never Surrender
 </p>
 
