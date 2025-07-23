@@ -29,12 +29,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ClaireFearless&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=ClaireFearless&theme=tokyonight" alt="GitHub Streak"/>
+  
+  ## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaireFearless&layout=compact&langs_count=10&theme=tokyonight)
 </div>
 
 ---
