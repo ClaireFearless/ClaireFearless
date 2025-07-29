@@ -51,7 +51,7 @@
 
 ### 🔗 Find Me Elsewhere
 
-- 🔗 [CV Website](https://onyjuna.my.id)
+- 🔗 [CV Website](https://ony-portfolio.vercel.app/)
 - 💌 Email: [onymcraft@gmail.com](mailto:onymcraft@gmail.com)
 
 ---
