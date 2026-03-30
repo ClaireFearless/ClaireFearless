@@ -1,4 +1,3 @@
-
-<div align="center">
-  <img src="https://tenor.com/hlq8f1xZwh2.gif">
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/8JX0GZsXr6sAAAAC/ye-shunguang-zenless-zone-zero.gif" width="250"/>
+</p>
