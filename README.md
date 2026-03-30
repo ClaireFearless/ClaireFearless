@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Ony 👋</h1>
 
 <p align="center">
-  IOT Enthusiast | Ye Shunguang Supremacy
+  IOT Enthusiast
 </p>
 
+<p align="center">
+  Ye Shunguang Supremacy
+</p>
 <p align="center">
   🌏 Indonesia
 </p>
