@@ -24,5 +24,5 @@
 
 
 <p align="center">
-  <i>Stay calm. Stay sharp.</i>
+  <i>Silent. Precise. Unstoppable.</i>
 </p>
