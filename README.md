@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ony 👋</h1>
-
+<p align="center">──────── ✦ ────────</p>
 <p align="center">
   IOT Enthusiast
 </p>
