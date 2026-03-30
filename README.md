@@ -7,5 +7,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/8JX0GZsXr6sAAAAC/ye-shunguang-zenless-zone-zero.gif" width="250"/>
+  <img src="https://media.tenor.com/U6a5BYBZs7gAAAAC/ye-shunguang-ye.gif" width="250"/>
 </p>
