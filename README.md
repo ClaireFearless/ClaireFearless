@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Ony 👋</h1>
+
 <p align="center">──────── ✦ ────────</p>
 <p align="center">
   IOT Enthusiast
@@ -14,6 +15,7 @@
   <img src="https://media.tenor.com/U6a5BYBZs7gAAAAC/ye-shunguang-ye.gif" width="250"/>
 </p>
 
+<p align="center">──────── ✦ ────────</p>
 
 ## ⚙️ Tech Stack
 
