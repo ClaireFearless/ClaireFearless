@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://tenor.com/id/view/sparkle-hanabi-hsr-star-rail-penacony-gif-14796476064034012533.gif" width="200" alt="anime typing">
+  <img src="https://tenor.com/view/ye-shunguang-ye-shunguang-zenless-zone-zero-zzz-gif-6027708584561324984">
 </div>
 
 ---
