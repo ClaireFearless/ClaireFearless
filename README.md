@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ony 👋</h1>
 
 <p align="center">
-  Frontend Developer • Linux Enthusiast • Anime Lover
+  IOT Enthusiast | Ye Shunguang Supremacy
 </p>
 
 <p align="center">
