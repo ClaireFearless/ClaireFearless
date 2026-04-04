@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ony 👋</h1>
 
 <p align="center">
-  IOT Enthusiast
+  IOT Enthusiast & Linux Enthusiast
 </p>
 
 <p align="center">
