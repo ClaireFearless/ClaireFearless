@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ClaireFearless?label=Followers&style=for-the-badge&color=20232a&logoColor=white&labelColor=181a1f" alt="Followers" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClaireFearless%2FClaireFearless&count_bg=%2320232a&title_bg=%23181a1f&icon=&icon_color=%23E7E7E7&title=Visitors&style=for-the-badge" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/ClaireFearless?label=FOLLOWERS&style=for-the-badge&color=20232a&logoColor=white&labelColor=181a1f" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ClaireFearless&label=VISITORS&style=for-the-badge&color=20232a&labelColor=181a1f" alt="Visitors" />
 </p>
 
 <p align="center">──────── ✦ ────────</p>
